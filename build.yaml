@@ -1,5 +1,7 @@
 include:
   - board: corneish_zen_v2_left
+    shield: ink_display
   - board: corneish_zen_v2_right
+    shield: ink_display
   - board: nice_nano_v2
     shield: settings_reset
