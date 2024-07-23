@@ -10,7 +10,7 @@ manifest:
       revision: main
       import: app/west.yml
     - name: zmk-ink-display
-      remote: zmk-ink-display
+      remote: tokyo2006
       revision: main
   self:
     path: config
